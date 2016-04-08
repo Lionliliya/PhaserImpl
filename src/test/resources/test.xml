@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="common-all-tests">
+    <test name="TestNG suite" parallel="false">
+    <classes>
+      <class name="ua.kiev.PhaserImplementation.PhaserImplementationTest"/>
+    </classes>
+    </test>
+</suite>

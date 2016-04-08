@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="common-all-tests" duration-ms="232" started-at="2016-04-08T09:26:52Z" finished-at="2016-04-08T09:26:52Z">
+    <groups>
+    </groups>
+    <test name="TestNG suite" duration-ms="232" started-at="2016-04-08T09:26:52Z" finished-at="2016-04-08T09:26:52Z">
+      <class name="ua.kiev.PhaserImplementation.PhaserImplementationTest">
+        <test-method status="PASS" signature="threadsEqualsElementsTest()[pri:0, instance:ua.kiev.PhaserImplementation.PhaserImplementationTest@7f63425a]" name="threadsEqualsElementsTest" duration-ms="148" started-at="2016-04-08T12:26:52Z" finished-at="2016-04-08T12:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threadsEqualsElementsTest -->
+        <test-method status="PASS" signature="threadsMoreThanValues()[pri:0, instance:ua.kiev.PhaserImplementation.PhaserImplementationTest@7f63425a]" name="threadsMoreThanValues" duration-ms="49" started-at="2016-04-08T12:26:52Z" finished-at="2016-04-08T12:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threadsMoreThanValues -->
+        <test-method status="PASS" signature="valuesMoreThanThreads()[pri:0, instance:ua.kiev.PhaserImplementation.PhaserImplementationTest@7f63425a]" name="valuesMoreThanThreads" duration-ms="15" started-at="2016-04-08T12:26:52Z" finished-at="2016-04-08T12:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valuesMoreThanThreads -->
+      </class> <!-- ua.kiev.PhaserImplementation.PhaserImplementationTest -->
+    </test> <!-- TestNG suite -->
+  </suite> <!-- common-all-tests -->
+</testng-results>
